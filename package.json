@@ -46,6 +46,11 @@
     "test:frontend:watch": "npm test --prefix ./front-end"
   },
   "keywords": [],
-  "author": "Thinkful, Inc.",
-  "license": "UNLICENSED"
+  "author": "Byron Polanco",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "knex": "^0.95.11",
+    "pg": "^4.5.5"
+  }
 }
